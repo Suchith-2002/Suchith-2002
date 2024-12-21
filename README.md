@@ -1,6 +1,9 @@
 # Uppalapati Suchith Chowdary&nbsp;<img src="Assets/Jerry_Logo.png" width="45px" height="45px">
 
 <div style="display: flex; align-items: center;">
+  <div>
+    <img alt="Designer GIF" src="Assets/Designer.gif" width="250" height="200" style="margin-left: 20px;" />
+  </div>
   <div style="flex: 1;">
     <h2>
       <img alt="Think GIF" src="Assets/think.gif" width="25px" /> Suchith! Who? &nbsp;
@@ -19,9 +22,6 @@
       <br><br>
       I am constantly seeking new learning opportunities to expand my knowledge and skills in the tech field.
     </p>
-  </div>
-  <div>
-    <img alt="Designer GIF" src="Assets/Designer.gif" width="250" height="200" style="margin-left: 20px;" />
   </div>
 </div>
 
@@ -221,7 +221,7 @@
 </div>
 </p>
 
-## <img alt="Github GIF" src="Assets/Github_Logo.webp" width="25px" /> **Real-Time GitHub Stats**
+## <img alt="Github GIF" src="Assets/Github_Logo.webp" width="25px" /> **Real-Time Activity Stats**
 
 <div align="center">
   <a href="https://github.com/Suchith-2002">
@@ -231,15 +231,77 @@
   <a href="https://github.com/Suchith-2002">
     <img src="https://github-readme-stats.vercel.app/api?username=Suchith-2002&show_icons=true&theme=dark&line_height=27" alt="GitHub Stats" style="margin: 10px;"/>
   </a>
+
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/wide/65533ce568ca60261329ae8e?variant=dark" alt="roadmap.sh"/>
+  </a>
 </div>
 <br>
 
-## <img src="Assets/Handshake.gif" height="32px"> Connect with me
+## <img src="Assets/Handshake.gif" height="32px" width="45px"> Connect with me
 
-[<img src="Assets/FaceBook_SVg.svg" alt="instagram logo" width="32" style="margin-right: 20px;">](https://www.instagram.com/suchith_u/) 
-[<img src="Assets/Instagram.svg" alt="instagram logo" width="32" style="margin-right: 20px;">](https://www.instagram.com/suchith_u/) 
-[<img src="Assets/Twitter.svg" alt="Twitter Logo" width="32" style="margin-right: 20px;">](https://x.com/suchith_u) 
-[<img src="Assets/Linkedin.svg" alt="Linkedin Logo" width="32" style="margin-right: 20px;">](https://www.linkedin.com/in/suchith-uppalapati-19b672255/) 
-[<img src="Assets/Gmail.svg" alt="Gmail logo" width="32"  style="margin-right: 20px;">](mailto:suchith.uppalapati@gmail.com)
-[<img src="Assets/HackerRank.svg" alt="HackerRank Logo" width="32" style="margin-right: 20px;">](https://www.hackerrank.com/profile/Suchith_1124) 
-[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="32" style="margin-right: 20px;">](https://github.com/Suchith-2002) 
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0 10px;">
+      <a href="https://www.instagram.com/suchith_u/">
+        <img src="Assets/FaceBook_SVg.svg" alt="Facebook logo" width="32">
+      </a>
+    </td>
+    <td style="padding: 0 10px;">
+      <a href="https://www.instagram.com/suchith_u/">
+        <img src="Assets/Instagram.svg" alt="Instagram logo" width="32">
+      </a>
+    </td>
+    <td style="padding: 0 10px;">
+      <a href="https://x.com/suchith_u">
+        <img src="Assets/Twitter.svg" alt="Twitter Logo" width="32">
+      </a>
+    </td>
+    <td style="padding: 0 10px;">
+      <a href="https://www.linkedin.com/in/suchith-uppalapati-19b672255/">
+        <img src="Assets/Linkedin.svg" alt="LinkedIn Logo" width="32">
+      </a>
+    </td>
+    <td style="padding: 0 10px;">
+      <a href="mailto:suchith.uppalapati@gmail.com">
+        <img src="Assets/Gmail.svg" alt="Gmail Logo" width="32">
+      </a>
+    </td>
+    <td style="padding: 0 10px;">
+      <a href="https://www.hackerrank.com/profile/Suchith_1124">
+        <img src="Assets/HackerRank.svg" alt="HackerRank Logo" width="32">
+      </a>
+    </td>
+    <td style="padding: 0 10px;">
+      <a href="https://github.com/Suchith-2002">
+        <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub Logo" width="32">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--
+## <img src="Assets/Handshake.gif" height="32px" width="45px"> Connect with me
+
+<a href="https://www.facebook.com/suchith.uppalapati">
+  <img src="Assets/FaceBook_SVg.svg" alt="Facebook logo" width="32">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/suchith_u/">
+  <img src="Assets/Instagram.svg" alt="Instagram logo" width="32">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/suchith_u">
+  <img src="Assets/Twitter.svg" alt="Twitter Logo" width="32">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/suchith-uppalapati-19b672255/">
+  <img src="Assets/Linkedin.svg" alt="LinkedIn Logo" width="32">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:suchith.uppalapati@gmail.com">
+  <img src="Assets/Gmail.svg" alt="Gmail Logo" width="32">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/Suchith_1124">
+  <img src="Assets/HackerRank.svg" alt="HackerRank Logo" width="32">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Suchith-2002">
+  <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub Logo" width="32">
+</a>
+-->
