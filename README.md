@@ -38,8 +38,11 @@
     <img alt="GIF" src="Assets/disco-ball.gif" width="25px" /> <b>Fun fact:</b> I can <b>Debug Code</b> faster than I can decide what to eat for <b>Lunch</b>! 🍕💻
 </p>
 
-###  <img alt="GIF" src="Assets/creative-thinking.gif" width="25px" /> **My Skill Palette**
-<hr>
+<h2>
+    <img alt="Think GIF" src="Assets/creative-thinking.gif" width="25px" /> My Skill Palette &nbsp;
+</h2>
+
+
 <p>
 
 <div style="display: flex; align-items: center;">
