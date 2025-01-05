@@ -10,7 +10,7 @@
     </h2>
     <p>
       I am a Final Year B.Tech Undergraduate from 
-      <a href="http://www.nits.ac.in"> <b> <em>National Institute of Technology, Silchar</em> </b></a>.  
+      <a href="http://www.nits.ac.in" target="_blank" rel="noopener noreferrer"> <b> <em>National Institute of Technology, Silchar</em> </b></a>.  
       <br><br>
       I am passionate about  <br>
       <b>Software Development</b> <img src="Assets/Software_PC.gif" width="25px">  <br>
