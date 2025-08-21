@@ -9,7 +9,7 @@
       <img alt="Think GIF" src="Assets/think.gif" width="25px" /> Suchith! Who? &nbsp;
     </h2>
     <p>
-      I am a Final Year B.Tech Undergraduate from 
+      I am a B.Tech Computer Science Undergraduate from 
       <a href="http://www.nits.ac.in" target="_blank" rel="noopener noreferrer"> <b> <em>National Institute of Technology, Silchar</em> </b></a>.  
       <br><br>
       I am passionate about  <br>
